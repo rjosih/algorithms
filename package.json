@@ -21,8 +21,8 @@
   },
   "scripts": {
     "tscheck": "tsc",
-    "build": "webpack --config webpack.config.js --mode=production",
-    "start": "webpack serve --open",
+    "start": "webpack serve --open node server.js",
+    "build": "webpack --config webpack.config.js --mode production",
     "lint": "eslint --fix \"./src/**/*.{js,jsx,ts,tsx,json}\"",
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --config .prettierrc 'src/**/*.tsx' --write",

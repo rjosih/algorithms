@@ -3,7 +3,7 @@ const path = require("path");
 
 module.exports = {
   entry: "./src/index.tsx",
-  mode: "production",
+  // mode: "production",
   devServer: {
     historyApiFallback: true,
   },
