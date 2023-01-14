@@ -8,14 +8,14 @@
 ### Get started
 * `yarn install`
 * yarn start`
-Navigate to `http://localhost:3000/`
+* Navigate to `http://localhost:3000/`
 
 
 
 ### Run tests 
 * `yarn test`
 
-### If you like to visit the page
+### If you like to visit the page not locally: 
 `https://algorithms-rjosih.herokuapp.com/`
 
 ### Future work
